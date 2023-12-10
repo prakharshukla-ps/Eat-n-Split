@@ -1,3 +1,7 @@
+# Eat-n-Split
+
+This is an app for users to split bills & track their or their friend's expenses & is implemented using React components, props & states.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
